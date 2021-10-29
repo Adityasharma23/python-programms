@@ -1,4 +1,3 @@
-#%%
 
 import random
 import copy
@@ -156,10 +155,3 @@ while not gameover:
                  gameover=True            
    
 
-
-
-
-
-# %%
-
-# %%
